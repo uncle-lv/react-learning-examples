@@ -1,0 +1,24 @@
+div a {
+    text-decoration: none;
+    color: black;
+}
+
+div a:hover {
+    color: black;
+}
+
+.item {
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.avatar {
+    display: block;
+    border-radius: 50%;
+}
+
+.username {
+    display: block;
+}
